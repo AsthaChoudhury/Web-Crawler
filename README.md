@@ -23,8 +23,8 @@ Before running the project, ensure to run the following:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/WebCrawlerBot.git
-   cd WebCrawlerBot
+   git clone https://github.com/AsthaChoudhury/Web-Crawler.git
+   cd Web-Crawler
 2. Install the required dependencies:
     ```
     pip install -r requirements.txt
